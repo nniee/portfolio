@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>{{ partial "head.html" . }}</head>
+
+<body>
+  <p>This is a copy of all posts on the website.</p>
+
+  <p>TOC:</p>
+
+  <ul>
+    {{ range .Site.RegularPages }}
+      <li><a href="#{{ substr .RelPermalink 1 -1 }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+  <div id="all">
+    <div class="container-fluid">
+      <div class="row row-offcanvas row-offcanvas-left">
+        {{ partial "sidebar.html" . }}
+        {{ range .Site.RegularPages }}
+
+          <h2 id="{{ substr .RelPermalink 1 -1 }}">{{ .Title }}</h2>
+          <!--<p style=""><a href="{{ .Permalink }}">{{ .Permalink }}</a></p>-->
+          {{ .Content }}
+        {{ end }} 
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
