@@ -7,6 +7,10 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+[module]
+[[module.imports]]
+  path = 'github.com/kishaningithub/hugo-creative-portfolio-theme'
+
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
