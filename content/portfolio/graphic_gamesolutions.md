@@ -7,7 +7,7 @@ title = "Game Solutions Logo"
 weight = 10
 +++
 
-Game Solutions was a student company started by some other students at my High School, and they asked me to make a logo. They made specialized bags for transporting your playstation or xbox. 
+Game Solutions was a student company started by some other students at my High School. They asked me to make a logo. They made specialized bags for transporting your playstation or xbox. 
 
 **Tools of the Trade**: Illustrator
 <!--more-->

@@ -21,7 +21,7 @@ It started with some sketches to work out the concept and try out different idea
 
  ![Sims 2 Custom Career Icon Sketches](/portfolio/careericon_sketch.png)
 
-> **HistoricalSimmer**
+**HistoricalSimmer**:
 > Oooh I love this! I really like the basket for costermonger. The kiln is so fun and I love how the basket and kiln share a distinctive drawing.
 > I'll get to work writing chance cards for the careers so we can actually release these. I'm so excited!
 
