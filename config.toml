@@ -17,7 +17,7 @@ relativeURLs = true
   description = "Annie's Portfolio"
   copyright = "&copy;2022 Annie Stein"
   sidebarAbout = [
-    "Hello! I'm an illustrator/graphic designer. I make cool things."
+    "Hi, I'm Annie. I'm from the cold fjords of the north, but I like to think I have a warm heart. I'm a lifelong student, and an aspiring artist and designer. I make worlds in my freetime, and stories to go in them. Right now, I'm telling the story of an alternate version of our solar system; the science fantasy world of Solaris. I also write the Morning Realm, a classical fantasy world that marries the nostalgic escapism of youth with the sensitivity of the present."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -53,7 +53,7 @@ relativeURLs = true
   url = "about/"
 
   [[params.navlinks]]
-  name = "Gallery"
+  name = "Illustration Gallery"
   url = "https://ko-fi.com/nniee/gallery/"
 
   [[params.navlinks]]
